@@ -1,7 +1,7 @@
 import React from 'react';
-import Gambar from './Component/Baju';
-import Spesifikasi from './Component/BajuDetail';
-import PilihanWarna from './Component/GBajuDetail';
+import Gambar from './Component/Keranjang';
+import Spesifikasi from './Component/sPESIFIKASI';
+import PilihanWarna from './Component/Warna';
 import 'antd/dist/antd.css';
 import { Layout, Typography, Button } from 'antd';
 
